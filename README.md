@@ -2,8 +2,6 @@
 
 ## How It Works
 
----
-
 The application follows these steps to provide responses to your questions:
 
 1. PDF Loading: The app reads multiple PDF documents and extracts their text content.
@@ -18,8 +16,6 @@ The application follows these steps to provide responses to your questions:
 
 ## Dependencies and Installation
 
----
-
 1. Clone the repository to your local machine.
 
 2. Install the required dependencies by running the following command:
@@ -33,8 +29,6 @@ OPENAI_API_KEY=your_secrit_api_key
 ```
 
 ## Usage
-
----
 
 To use the MultiPDF Chat App, follow these steps:
 
