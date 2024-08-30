@@ -24,9 +24,9 @@ The application follows these steps to provide responses to your questions:
    ```
 
 3. Obtain an API key from OpenAI and add it to the `.env` file in the project directory.
-```commandline
-OPENAI_API_KEY=your_secrit_api_key
-```
+   ```commandline
+   OPENAI_API_KEY=your_secrit_api_key
+   ```
 
 ## Usage
 
